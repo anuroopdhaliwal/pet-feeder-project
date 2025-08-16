@@ -1,0 +1,5 @@
+#STEP 1: Understand and Define the Problem (Analyse)
+
+The automated pet feeder dispenses pet food for dogs and cats at scheduled times and monitors the food distribution and amount of food consumed through sensors and a bowl scale. The staff is alerted if the food is not dispensed at the scheduled time or if the food is not consumed by the end of the feeding period, and an update is the feeding is successful.
+
+Assumptions include that the pet feeder is only used for one animal, it does not automatically refill the food and must be manually refilled by staff, and it has limited memory, meaning inputs must re-entered every week. The type of food is dry kibble since it does not require temperature control and therefore does not have associated health risks such as going off as a result, compared to wet food. The pet feeder runs on power from an outlet rather than a battery, ensuring continuous power supply, steady voltage and no need for recharging. Another assumption is that staff respond quickly to alerts so the system does not enter infinite loops of alerts. Alerts are sent digitally, so it is assumed that network connectivity is available and stable. 
