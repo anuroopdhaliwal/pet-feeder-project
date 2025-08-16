@@ -1,4 +1,4 @@
-#STEP 1: Understand and Define the Problem (Analyse)
+# STEP 1: Understand and Define the Problem (Analyse)
 
 The automated pet feeder dispenses pet food for dogs and cats at scheduled times and monitors the food distribution and amount of food consumed through sensors and a bowl scale. The staff is alerted if the food is not dispensed at the scheduled time or if the food is not consumed by the end of the feeding period, and an update is the feeding is successful.
 
