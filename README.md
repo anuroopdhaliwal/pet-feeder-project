@@ -1,6 +1,6 @@
 # Anuroop Dhaliwal u3306135
 ## Intro to Information Technology Pet-Feeder Assignment 1
-The project is a design of an automated and programmable pet-feeder which dispenses pet food for cats and dogs at scheduled times. The pet feeder monitors whether the food is dispensed at scheduled times and if it is consumed by the pet, sending alerts to the user accordingly. The feeder is designed for a single pet and requires weekly input since it has limited memory.
+The project is a design of an automated and programmable pet-feeder which dispenses pet food for cats and dogs at scheduled times. The pet feeder monitors whether the food is dispensed at scheduled times and if it is consumed by the pet, sending alerts to the user accordingly. The feeder is designed for a single pet and requires weekly input due to limited memory.
 
 ## Features
 - Scheduled feeding times input by the user for up to three times per day
