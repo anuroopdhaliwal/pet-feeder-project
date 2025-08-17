@@ -1,5 +1,6 @@
 Word Code:
-1.	Input the scheduled feeding times. #user input
+1.	Input the scheduled feeding times. 
+# User enters the scheduled feeding times as input - can have up to three per day.
 2.	For each scheduled feeding time:
 IF (TIME /= SCHEDULEDTIME)
 # If the current time does not match a scheduled feeding time, the system waits 10 minutes and tries again.
